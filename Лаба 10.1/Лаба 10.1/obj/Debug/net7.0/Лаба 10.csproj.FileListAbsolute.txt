@@ -1,0 +1,30 @@
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Lab9_6\bin\Debug\net7.0\Лаба 10.exe
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Lab9_6\bin\Debug\net7.0\Лаба 10.deps.json
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Lab9_6\bin\Debug\net7.0\Лаба 10.runtimeconfig.json
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Lab9_6\bin\Debug\net7.0\Лаба 10.dll
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Lab9_6\bin\Debug\net7.0\Лаба 10.pdb
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Lab9_6\obj\Debug\net7.0\Лаба 10.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Lab9_6\obj\Debug\net7.0\Лаба 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Lab9_6\obj\Debug\net7.0\Лаба 10.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Lab9_6\obj\Debug\net7.0\Лаба 10.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Lab9_6\obj\Debug\net7.0\Лаба 10.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Lab9_6\obj\Debug\net7.0\Лаба 10.dll
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Lab9_6\obj\Debug\net7.0\refint\Лаба 10.dll
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Lab9_6\obj\Debug\net7.0\Лаба 10.pdb
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Lab9_6\obj\Debug\net7.0\Лаба 10.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Lab9_6\obj\Debug\net7.0\ref\Лаба 10.dll
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Лаба 10\bin\Debug\net7.0\Лаба 10.exe
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Лаба 10\bin\Debug\net7.0\Лаба 10.deps.json
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Лаба 10\bin\Debug\net7.0\Лаба 10.runtimeconfig.json
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Лаба 10\bin\Debug\net7.0\Лаба 10.dll
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Лаба 10\bin\Debug\net7.0\Лаба 10.pdb
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Лаба 10\obj\Debug\net7.0\Лаба 10.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Лаба 10\obj\Debug\net7.0\Лаба 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Лаба 10\obj\Debug\net7.0\Лаба 10.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Лаба 10\obj\Debug\net7.0\Лаба 10.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Лаба 10\obj\Debug\net7.0\Лаба 10.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Лаба 10\obj\Debug\net7.0\Лаба 10.dll
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Лаба 10\obj\Debug\net7.0\refint\Лаба 10.dll
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Лаба 10\obj\Debug\net7.0\Лаба 10.pdb
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Лаба 10\obj\Debug\net7.0\Лаба 10.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\С#\Лаба 10\Лаба 10\Лаба 10\obj\Debug\net7.0\ref\Лаба 10.dll

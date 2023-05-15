@@ -1,0 +1,15 @@
+D:\Downloads\Lab9_6\Lab9_6\bin\Debug\net7.0\Lab9_6.exe
+D:\Downloads\Lab9_6\Lab9_6\bin\Debug\net7.0\Lab9_6.deps.json
+D:\Downloads\Lab9_6\Lab9_6\bin\Debug\net7.0\Lab9_6.runtimeconfig.json
+D:\Downloads\Lab9_6\Lab9_6\bin\Debug\net7.0\Lab9_6.dll
+D:\Downloads\Lab9_6\Lab9_6\bin\Debug\net7.0\Lab9_6.pdb
+D:\Downloads\Lab9_6\Lab9_6\obj\Debug\net7.0\Lab9_6.csproj.AssemblyReference.cache
+D:\Downloads\Lab9_6\Lab9_6\obj\Debug\net7.0\Lab9_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Lab9_6\Lab9_6\obj\Debug\net7.0\Lab9_6.AssemblyInfoInputs.cache
+D:\Downloads\Lab9_6\Lab9_6\obj\Debug\net7.0\Lab9_6.AssemblyInfo.cs
+D:\Downloads\Lab9_6\Lab9_6\obj\Debug\net7.0\Lab9_6.csproj.CoreCompileInputs.cache
+D:\Downloads\Lab9_6\Lab9_6\obj\Debug\net7.0\Lab9_6.dll
+D:\Downloads\Lab9_6\Lab9_6\obj\Debug\net7.0\refint\Lab9_6.dll
+D:\Downloads\Lab9_6\Lab9_6\obj\Debug\net7.0\Lab9_6.pdb
+D:\Downloads\Lab9_6\Lab9_6\obj\Debug\net7.0\Lab9_6.genruntimeconfig.cache
+D:\Downloads\Lab9_6\Lab9_6\obj\Debug\net7.0\ref\Lab9_6.dll
